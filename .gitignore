@@ -36,4 +36,4 @@ yarn-error.log*
 next-env.d.ts
 
 # Prisma dev DB
-deb.db
+dev.db
